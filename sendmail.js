@@ -5,7 +5,7 @@ function goBack() {
   resetButton.click();
 
   setTimeout(() => {
-    window.location.href="https://github.com/shadow855";
+    window.location.href="https://shadow-portfolio.onrender.com";
   }, 500);
 }
 
